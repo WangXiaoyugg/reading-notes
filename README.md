@@ -1,2 +1,2 @@
-# reading-notes
-read book and write notes
+# 读书笔记
+- 程序员的数学
